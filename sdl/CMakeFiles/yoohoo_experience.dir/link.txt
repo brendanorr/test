@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/yoohoo_experience.dir/test.cpp.o  -o yoohoo_experience -rdynamic -lSDL2 -lSDL2_image -lSDL2 -lSDL2_gfx -lSDL2 -lSDL2_image -lSDL2_gfx 

@@ -1,0 +1,3 @@
+/home/baorr/Documents/programming/sdl/CMakeFiles/rebuild_cache.dir
+/home/baorr/Documents/programming/sdl/CMakeFiles/edit_cache.dir
+/home/baorr/Documents/programming/sdl/CMakeFiles/sdl_test.dir
